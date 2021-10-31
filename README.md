@@ -1,2 +1,2 @@
 #mynewrepo
-file created for learn connecting gihub remotelly
+file created for learn connecting github remotelly
